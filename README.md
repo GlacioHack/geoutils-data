@@ -26,14 +26,14 @@ Two Landsat satellite raster images B4 (red) and RGB of the area **LEVEL?**, tak
 
 #### 15_rgi60_glacier_outlines.gpkg (CC BY 4.0)
 
-This vector file, from the Randolph Glacier Inventory (RGI 6.0)[^2] presents the vector outlines for glaciers and glacier 
+This vector file, from the Randolph Glacier Inventory (RGI 6.0)[^2], presents the vector outlines for glaciers and glacier 
 complexes around the area. **DATE?**
 
 [^2]:  RGI Consortium (2017). Randolph Glacier Inventory – A Dataset of Global Glacier Outlines: Version 6.0: Technical Report, Global Land Ice Measurements from Space, Colorado, USA. Digital Media. DOI: https://doi.org/10.7265/N5-RGI-60
 
 ## Exploradores 
 
-Exploradores Glacier is a glacier situated on the northeastern slope of Monte San Valentín, in the Chilean Patagonia.
+Exploradores Glacier is a glacier located on the northeastern slope of Monte San Valentín, in the Chilean Patagonia.
 
 #### AST_L1A_00303182012144228_Z.tif (Licence?)
 
@@ -42,5 +42,5 @@ The Aster satellite raster image (L1A) **BAND?**  of the area, taken the **XX/XX
 
 #### 17_rgi60_glacier_outlines.gpkg (CC BY 4.0)
 
-This vector file, from the Randolph Glacier Inventory (RGI 6.0)[^3] presents the vector outlines for glaciers and glacier 
+This vector file, from the Randolph Glacier Inventory (RGI 6.0)[^2], presents the vector outlines for glaciers and glacier 
 complexes around the area. **DATE?**
