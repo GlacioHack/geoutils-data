@@ -21,7 +21,7 @@ This site covers the Mount Everest, Earth's highest mountain, in the Himalayan m
 
 #### LE71400412000304SGS00_B4.tif and LE71400412000304SGS00_RGB.tif (©U.S. Geological Survey)
 
-Two Landsat satellite raster images B4 (red) and RGB of the area, taken the 30/10/2000 at 30 m spatial resolution.
+Two Landsat satellite raster images B4 (red) and RGB of the area, were acquired on the 30/10/2000 at 30 m spatial resolution.
 
 #### 15_rgi60_glacier_outlines.gpkg (CC BY 4.0)
 
@@ -34,7 +34,7 @@ Exploradores Glacier is a glacier located on the northeastern slope of Monte San
 
 #### AST_L1A_00303182012144228_Z.tif 
 
-The Aster satellite raster elevation data of the area, taken the 18/03/2012 at 30 m spatial resolution. 
+The Aster satellite raster elevation data of the area, were acquired on the 18/03/2012 at 30 m spatial resolution. 
 It was generated with MicMac[^3] adapted for ASTER[^4] using ASTER L1A V003 data (VNIR bands) from NASA/JAXA[^5].
 
 #### 17_rgi60_glacier_outlines.gpkg (CC BY 4.0)
