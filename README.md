@@ -12,7 +12,8 @@ Coromandel Peninsula is located in the upper North Island of New Zealand.
 
 #### points.laz (©Regional Software Holdings Limited (RSHL) – CC BY 4.0)
 
-This point cloud represents data elevation measured by LiDAR technology, distribute by the New Zealand Ministry for the Environment[^1]. **DATE?** 
+This point cloud represents data elevation measured by LiDAR technology, distribute by the New Zealand Ministry for the Environment[^1]. 
+The data was captured between 21 January 2024 and 17 May 2024. 
 
 ## Everest 
 
@@ -20,7 +21,7 @@ This site covers the Mount Everest, Earth's highest mountain, in the Himalayan m
 
 #### LE71400412000304SGS00_B4.tif and LE71400412000304SGS00_RGB.tif (©U.S. Geological Survey)
 
-Two Landsat satellite raster images B4 (red) and RGB of the area, taken the 30/10/2000X at 30 m spatial resolution.
+Two Landsat satellite raster images B4 (red) and RGB of the area, taken the 30/10/2000 at 30 m spatial resolution.
 
 #### 15_rgi60_glacier_outlines.gpkg (CC BY 4.0)
 
