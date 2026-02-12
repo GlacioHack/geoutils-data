@@ -5,7 +5,6 @@ Test and example data for [GeoUtils](https://github.com/GlacioHack/geoutils).
 All data copyright is with the associated download locations. 
 This repo holds modified versions of these data, but we do not claim any rights to them.
 
-
 ## Coromandel
 
 Coromandel Peninsula is located in the upper North Island of New Zealand.
@@ -21,7 +20,8 @@ This site covers the Mount Everest, Earth's highest mountain, in the Himalayan m
 
 #### LE71400412000304SGS00_B4.tif and LE71400412000304SGS00_RGB.tif (©U.S. Geological Survey)
 
-Two Landsat satellite raster images B4 (red) and RGB of the area, were acquired on the 30/10/2000 at 30 m spatial resolution.
+This two satellite raster images, B4 (red) and RGB of the area, were acquired with Landsat 7 (orthorectified products L2A)
+on the 30/10/2000 at 30 m spatial resolution.
 
 #### 15_rgi60_glacier_outlines.gpkg (CC BY 4.0)
 
@@ -34,8 +34,9 @@ Exploradores Glacier is a glacier located on the northeastern slope of Monte San
 
 #### AST_L1A_00303182012144228_Z.tif 
 
-The Aster satellite raster elevation data of the area, were acquired on the 18/03/2012 at 30 m spatial resolution. 
-It was generated with MicMac[^3] adapted for ASTER[^4] using ASTER L1A V003 data (VNIR bands) from NASA/JAXA[^5].
+The Aster satellite raster elevation data (DEM) of the area at 30 m spatial resolution was computed from 
+stereo images acquired on the 18/03/2012, generated with MicMac[^3] adapted for ASTER[^4] using ASTER L1A V003 data 
+(VNIR bands) from NASA/JAXA[^5].
 
 #### 17_rgi60_glacier_outlines.gpkg (CC BY 4.0)
 
